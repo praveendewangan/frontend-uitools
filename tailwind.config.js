@@ -11,7 +11,10 @@ module.exports = {
       },
       colors: {
         headerBgLightcyan:{
-          DEFAULT : '#98cedf'
+          DEFAULT: '#98cedf'
+        },
+        darkcyan: {
+          DEFAULT: '#386162'
         },
         green: {
           DEFAULT: "#00f260",
